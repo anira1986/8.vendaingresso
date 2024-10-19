@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simulador de Ingressos</string>
+    <string name="identificador">Código do Ingresso</string>
+    <string name="valor">Preço do Ingresso (R$)</string>
+    <string name="taxa">Taxa de Serviço (%)</string>
+    <string name="calcular">Calcular Valor Final</string>
+    <string name="funcao">Função do Comprador</string>
+    <string name="vip">Ingresso VIP</string>
+    <string name="voltar">Retornar</string>
+    <string name="resultado_venda">Resultado da Venda</string>
+</resources>
